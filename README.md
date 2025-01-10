@@ -1,5 +1,5 @@
 # BigRus1602_ESP32
-Оригинальная библиотека:
+Оригинальная библиотека: https://github.com/AlchemistCache/BigRus1602
 
 История:
 
